@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @clementdelaruelle
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning C
+- 📫 You can reach me by mail : clement.delaruelle@icloud.com
